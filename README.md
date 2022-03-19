@@ -1,3 +1,3 @@
 # Secrets
 
-[DEMO🚀](https://mighty-forest-44699.herokuapp.com/)
+[DEMO🚀](https://pacific-wildwood-16374.herokuapp.com/secrets)
