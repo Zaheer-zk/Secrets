@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Fredoka:wght@300&display=swap');
+body {
+  background-color: #e8ecef;
+  font-family: 'Fredoka', sans-serif;
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #e2d784;
+  background-color: #062c30;
+}
+
+.p-font {
+  font-family: 'Creepster', cursive;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  color: green;
+}
